@@ -1,3 +1,7 @@
+This is a very useful project and isn't just notes. 
+You enter your age and it gives you the years, months and days you have left if you live for 90 years. 
+
+
 ## Your Life in Weeks
 
 # UPDATE
